@@ -5,10 +5,10 @@ import re
 import datetime
 
 from loader import bot
-from TelegramBot_Hotels.tg_API.states.user_data import UserInputInfo
-from TelegramBot_Hotels.tg_API.utils.search_destination_id import destination_id, cities_buttons
-from TelegramBot_Hotels.database.common.models import db, Cities
-from TelegramBot_Hotels.tg_API.utils.search_hotel import hotels_options
+from tg_API.states.user_data import UserInputInfo
+from tg_API.utils.search_destination_id import destination_id, cities_buttons
+from database.common.models import db, Cities
+from tg_API.utils.search_hotel import hotels_options
 
 LSTEP_RU: dict[str, str] = {'y': 'год', 'm': 'месяц', 'd': 'день'}
 

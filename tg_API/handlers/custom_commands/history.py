@@ -2,9 +2,9 @@ from telebot.types import Message, InputMediaPhoto
 from loguru import logger
 
 from loader import bot
-import TelegramBot_Hotels.tg_API.utils.input_information   # noqa
-from TelegramBot_Hotels.database.common.models import db, Hotels
-from TelegramBot_Hotels.tg_API.utils.ending_dialogue import final_question
+import tg_API.utils.input_information   # noqa
+from database.common.models import db, Hotels
+from tg_API.utils.ending_dialogue import final_question
 
 
 @bot.message_handler(commands=['history'])

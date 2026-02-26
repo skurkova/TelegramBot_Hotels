@@ -1,6 +1,6 @@
 from telebot import TeleBot
 from telebot.storage import StateMemoryStorage
-from TelegramBot_Hotels.tg_API.config_data import config
+from tg_API.config_data import config
 
 
 storage = StateMemoryStorage()

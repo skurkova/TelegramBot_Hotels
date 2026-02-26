@@ -2,7 +2,7 @@ from telebot.types import Message, CallbackQuery
 from loguru import logger
 
 from loader import bot
-from TelegramBot_Hotels.tg_API.keyboards.inline.buttons_yes_no import calling_buttons_yes_no
+from tg_API.keyboards.inline.buttons_yes_no import calling_buttons_yes_no
 
 
 def final_question(message: Message) -> None:

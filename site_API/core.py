@@ -1,7 +1,5 @@
-from TelegramBot_Hotels.tg_API.config_data.config import RAPID_API_KEY
+from tg_API.config_data.config import RAPID_API_KEY, RAPID_API_HOST
 
-
-RAPID_API_HOST = "hotels4.p.rapidapi.com"
 
 url_api = "https://" + RAPID_API_HOST
 

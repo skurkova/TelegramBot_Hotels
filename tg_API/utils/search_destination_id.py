@@ -1,7 +1,7 @@
 from telebot.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from loguru import logger
 
-from TelegramBot_Hotels.site_API.utils.site_api_handler import api_request
+from site_API.utils.site_api_handler import api_request
 
 
 def destination_id(message: Message) -> list:

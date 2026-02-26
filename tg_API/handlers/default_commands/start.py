@@ -2,7 +2,7 @@ from telebot.types import Message
 from loguru import logger
 
 from loader import bot
-from TelegramBot_Hotels.database.common.models import db, User
+from database.common.models import db, User
 
 
 @bot.message_handler(commands=['start'])

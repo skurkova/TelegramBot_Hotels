@@ -18,7 +18,11 @@ def get_request(url, params):
         logger.info(f'Сервер вернул ответ: {response.status_code}')
         if response.status_code == requests.codes.ok:
             return response.json()
-        raise Exception(f'Запрос пуст, статус кода {response.status_code}')
+        elif response.status_code == 451:
+            logger.error('⚠️ API заблокирован (HTTP 451). Включите USE_MOCK_API=True в .env')
+            raise Exception(f'API недоступен в вашем регионе, статус кода {response.status_code}')
+        else:
+            raise Exception(f'Запрос пуст, статус кода {response.status_code}')
     except Exception:
         logger.info(Exception)
         raise
@@ -30,7 +34,11 @@ def post_request(url, params):
         logger.info(f'Сервер вернул ответ: {response.status_code}')
         if response.status_code == requests.codes.ok:
             return response.json()
-        raise Exception(f'Запрос пуст, статус кода {response.status_code}')
+        elif response.status_code == 451:
+            logger.error('⚠️ API заблокирован (HTTP 451). Включите USE_MOCK_API=True в .env')
+            raise Exception(f'API недоступен в вашем регионе, статус кода {response.status_code}')
+        else:
+            raise Exception(f'Запрос пуст, статус кода {response.status_code}')
     except Exception:
         logger.info(Exception)
         raise

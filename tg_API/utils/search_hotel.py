@@ -4,9 +4,9 @@ from telebot.types import Message, InputMediaPhoto
 from loguru import logger
 
 from loader import bot
-from TelegramBot_Hotels.site_API.utils.site_api_handler import api_request
-from TelegramBot_Hotels.database.common.models import db, Hotels
-from TelegramBot_Hotels.tg_API.utils.ending_dialogue import final_question
+from site_API.utils.site_api_handler import api_request
+from database.common.models import db, Hotels
+from tg_API.utils.ending_dialogue import final_question
 
 
 def search_possible_hotels(data: Dict) -> Any:

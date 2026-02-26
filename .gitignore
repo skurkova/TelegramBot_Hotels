@@ -1,0 +1,20 @@
+# Конфигурация
+config.ini
+
+# Виртуальное окружение
+venv/
+.env
+
+# Логи
+*.log
+*.log.*
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+*.swp

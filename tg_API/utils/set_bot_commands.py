@@ -1,6 +1,6 @@
 from telebot.types import BotCommand
 
-from TelegramBot_Hotels.tg_API.config_data.config import DEFAULT_COMMANDS
+from tg_API.config_data.config import DEFAULT_COMMANDS
 
 
 def set_default_commands(bot):
