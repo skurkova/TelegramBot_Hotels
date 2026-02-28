@@ -12,6 +12,7 @@ else:
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 RAPID_API_KEY = os.getenv("RAPID_API_KEY")
 RAPID_API_HOST = os.getenv("RAPID_API_HOST")
+MOCK_API = os.getenv("MOCK_API", "False").lower() == "true"
 
 DEFAULT_COMMANDS = (
     ('start', 'Запустить бота'),

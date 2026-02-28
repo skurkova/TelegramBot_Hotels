@@ -1,0 +1,3284 @@
+{
+    "data": {
+        "propertyInfo": {
+            "__typename": "PropertyInfo",
+            "summary": {
+                "__typename": "PropertySummary",
+                "fees": null,
+                "id": "43263",
+                "name": "Arya Inn & Suites Farmers Branch",
+                "map": {
+                    "__typename": "PropertyInfoMap",
+                    "markers": null
+                },
+                "policies": {
+                    "__typename": "PropertyPolicies",
+                    "checkinEnd": null,
+                    "checkinInstructions": [
+                        "Front desk staff will greet guests on arrival"
+                    ],
+                    "checkinMinAge": null,
+                    "checkinStart": null,
+                    "checkoutTime": null,
+                    "childAndBed": {
+                        "__typename": "PropertyInfoSubSection",
+                        "body": [
+                            "Children stay free when occupying the parent or guardian's room, using existing bedding ",
+                            "No cribs (infant beds)"
+                        ],
+                        "descriptions": [],
+                        "title": null
+                    },
+                    "needToKnow": {
+                        "__typename": "PropertyInfoSubSection",
+                        "body": [
+                            "The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. ",
+                            "This property does not have elevators. ",
+                            "This property accepts credit cards. Cash is not accepted.",
+                            "Please note that cultural norms and guest policies may differ by country and by property. The policies listed are provided by the property. "
+                        ],
+                        "descriptions": [],
+                        "title": "You need to know"
+                    },
+                    "paymentOptions": [],
+                    "pets": {
+                        "__typename": "PropertyInfoSubSection",
+                        "body": [
+                            "Pets not allowed",
+                            "Service animals welcome"
+                        ],
+                        "descriptions": [],
+                        "title": "Pets"
+                    },
+                    "shouldMention": {
+                        "__typename": "PropertyInfoSubSection",
+                        "body": [
+                            "This property does not have elevators",
+                            "The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation"
+                        ],
+                        "descriptions": [],
+                        "title": "We should mention"
+                    }
+                },
+                "telesalesPhoneNumber": "",
+                "bannerMessage": null,
+                "latinAlphabetName": "",
+                "tagline": "Farmers Branch hotel with outdoor pool ",
+                "starRatingIcon": {
+                    "__typename": "Icon",
+                    "token": "STAR"
+                },
+                "overview": {
+                    "__typename": "PropertyOverview",
+                    "vipMessaging": null,
+                    "inventoryType": null,
+                    "accessibilityLabel": "Overview of Arya Inn & Suites Farmers Branch",
+                    "label": null,
+                    "propertyRating": {
+                        "__typename": "EGDSIconRating",
+                        "rating": 3,
+                        "accessibility": "3.0 star property",
+                        "icon": {
+                            "__typename": "Icon",
+                            "id": "star",
+                            "description": "star rating",
+                            "size": null,
+                            "token": "icon__star",
+                            "theme": null
+                        }
+                    }
+                },
+                "featuredMessages": null,
+                "spaceOverview": null,
+                "amenities": {
+                    "__typename": "PropertyAmenities",
+                    "amenities": [
+                        {
+                            "__typename": "PropertyInfoSection",
+                            "title": "At a glance",
+                            "sections": [],
+                            "header": {
+                                "__typename": "LodgingHeader",
+                                "icon": null,
+                                "text": "At a glance",
+                                "subText": null
+                            },
+                            "contents": [
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Hotel size",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "52 rooms",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Arranged over 2 floors",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Arriving/Leaving",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Check-in start time: 3 PM; Check-in end time: 5:30 AM",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Late check-in subject to availability",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Minimum check-in age: 18 ",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Check-out time is 11 AM",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Contactless check-out available",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Restrictions related to your trip",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Check COVID-19 restrictions.",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Special check-in instructions",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Front desk staff will greet guests on arrival",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Required at check-in",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Credit card, debit card, or cash deposit required for incidental charges",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Government-issued photo ID may be required",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Minimum check-in age is 18 ",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Children",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Children stay free when occupying the parent or guardian's room, using existing bedding ",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "No cribs (infant beds)",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Pets",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Pets not allowed",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Service animals welcome",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Internet",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "wifi",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "wifi",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free WiFi and wired internet access in public areas",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free WiFi in rooms",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Parking",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "local_parking",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "local_parking",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free onsite self parking",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free onsite RV/bus/truck parking",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Wheelchair-accessible parking and van parking on site",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Other information",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Smoke-free property",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__typename": "PropertyInfoSection",
+                            "title": "Property amenities",
+                            "sections": [],
+                            "header": {
+                                "__typename": "LodgingHeader",
+                                "icon": null,
+                                "text": "Property amenities",
+                                "subText": null
+                            },
+                            "contents": [
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Food and drink",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "local_dining",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "local_dining",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Coffee/tea in a common area",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free daily reception",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Traveling with children",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "family_friendly",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "family_friendly",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Children stay free (see details)",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Working away",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "business_center",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "business_center",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Meeting room",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Computer station",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Conference space (495 square feet)",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Services",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "room_service",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "room_service",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "24-hour front desk",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Laundry facilities",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free newspapers in lobby",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Facilities",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Safe-deposit box at front desk",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "An outdoor pool",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Accessibility",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "accessible",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "accessible",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Accessible bathroom (select rooms)",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "In-room accessibility (select rooms)",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Wheelchair-accessible path of travel",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Wheelchair-accessible parking",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Wheelchair-accessible public washroom",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Wheelchair-accessible van parking",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Wheelchair-accessible registration desk",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Hand-held showerheads",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__typename": "PropertyInfoSection",
+                            "title": "Room amenities",
+                            "sections": [],
+                            "header": {
+                                "__typename": "LodgingHeader",
+                                "icon": null,
+                                "text": "Room amenities",
+                                "subText": null
+                            },
+                            "contents": [
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Be entertained",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "40-inch LED TV",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Cable TV channels",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Home comfort",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Air conditioning",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Coffee/tea maker",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Iron/ironing board (on request)",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Sleep well",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Premium bedding",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "What to enjoy",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Separate sitting area",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Freshen up",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Private bathroom",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Shower/tub combination",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free toiletries",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Hair dryer",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Towels",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Stay connected",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Desk",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free WiFi",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Free local calls",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "Food and drink",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "local_dining",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "local_dining",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Refrigerator",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Microwave",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__typename": "PropertyInfoContent",
+                                    "header": {
+                                        "__typename": "LodgingHeader",
+                                        "text": "More",
+                                        "subText": null,
+                                        "mark": null
+                                    },
+                                    "icon": {
+                                        "__typename": "Icon",
+                                        "id": "done",
+                                        "description": "",
+                                        "size": null,
+                                        "token": "done",
+                                        "theme": null
+                                    },
+                                    "jumpLink": null,
+                                    "items": [
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Daily housekeeping",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "In-room safe",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        },
+                                        {
+                                            "__typename": "PropertyInfoItem",
+                                            "text": "Connecting/adjoining rooms available",
+                                            "state": null,
+                                            "moreInfo": null,
+                                            "icon": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "topAmenities": {
+                        "__typename": "PropertyInfoContent",
+                        "header": {
+                            "__typename": "LodgingHeader",
+                            "text": "Property highlights",
+                            "subText": null,
+                            "mark": null
+                        },
+                        "icon": null,
+                        "jumpLink": null,
+                        "items": [
+                            {
+                                "__typename": "PropertyInfoItem",
+                                "text": "Pool",
+                                "state": null,
+                                "moreInfo": null,
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "pool",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "pool",
+                                    "theme": null
+                                }
+                            },
+                            {
+                                "__typename": "PropertyInfoItem",
+                                "text": "Free parking",
+                                "state": null,
+                                "moreInfo": null,
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "local_parking",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "local_parking",
+                                    "theme": null
+                                }
+                            },
+                            {
+                                "__typename": "PropertyInfoItem",
+                                "text": "Air conditioning",
+                                "state": null,
+                                "moreInfo": null,
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "ac_unit",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "ac_unit",
+                                    "theme": null
+                                }
+                            },
+                            {
+                                "__typename": "PropertyInfoItem",
+                                "text": "Laundry facilities",
+                                "state": null,
+                                "moreInfo": null,
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "local_laundry_service",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "local_laundry_service",
+                                    "theme": null
+                                }
+                            },
+                            {
+                                "__typename": "PropertyInfoItem",
+                                "text": "Free WiFi",
+                                "state": null,
+                                "moreInfo": null,
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "wifi",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "wifi",
+                                    "theme": null
+                                }
+                            },
+                            {
+                                "__typename": "PropertyInfoItem",
+                                "text": "Connecting rooms available",
+                                "state": null,
+                                "moreInfo": null,
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "room",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "room",
+                                    "theme": null
+                                }
+                            }
+                        ]
+                    },
+                    "propertyContentPreferences": null,
+                    "amenitiesDialog": {
+                        "__typename": "LodgingAmenitiesDialog",
+                        "trigger": {
+                            "__typename": "LodgingDialogTriggerMessage",
+                            "value": "See all",
+                            "icon": {
+                                "__typename": "Icon",
+                                "id": "chevron_right",
+                                "description": "View all amenities",
+                                "size": null,
+                                "token": "icon__chevron_right",
+                                "theme": null
+                            },
+                            "clientSideAnalytics": {
+                                "__typename": "ClientSideAnalytics",
+                                "linkName": "View all amenities",
+                                "referrerId": "HOT.HIS.ViewAllAmenities"
+                            }
+                        },
+                        "toolbar": {
+                            "__typename": "LodgingDialogToolbar",
+                            "title": "Property amenities"
+                        }
+                    },
+                    "takeover": {
+                        "__typename": "PropertyTakeoverAmenities",
+                        "amenityClosures": null,
+                        "highlight": [
+                            {
+                                "__typename": "PropertyInfoContent",
+                                "header": {
+                                    "__typename": "LodgingHeader",
+                                    "text": "Popular amenities",
+                                    "subText": null,
+                                    "mark": null
+                                },
+                                "icon": null,
+                                "jumpLink": null,
+                                "items": [
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Pool",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "pool",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "pool",
+                                            "theme": null
+                                        }
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Free parking",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "local_parking",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "local_parking",
+                                            "theme": null
+                                        }
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Air conditioning",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "ac_unit",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "ac_unit",
+                                            "theme": null
+                                        }
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Laundry facilities",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "local_laundry_service",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "local_laundry_service",
+                                            "theme": null
+                                        }
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Free WiFi",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "wifi",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "wifi",
+                                            "theme": null
+                                        }
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Connecting rooms available",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "room",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "room",
+                                            "theme": null
+                                        }
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "24/7 front desk",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "local_convenience_store",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "local_convenience_store",
+                                            "theme": null
+                                        }
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Non-smoking",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": {
+                                            "__typename": "Icon",
+                                            "id": "smoke_free",
+                                            "description": "",
+                                            "size": null,
+                                            "token": "smoke_free",
+                                            "theme": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "property": [
+                            {
+                                "__typename": "PropertyInfoContent",
+                                "header": {
+                                    "__typename": "LodgingHeader",
+                                    "text": "Food and drink",
+                                    "subText": null,
+                                    "mark": null
+                                },
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "local_dining",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "local_dining",
+                                    "theme": null
+                                },
+                                "jumpLink": null,
+                                "items": [
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Coffee/tea in a common area",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Free daily reception",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    }
+                                ]
+                            },
+                            {
+                                "__typename": "PropertyInfoContent",
+                                "header": {
+                                    "__typename": "LodgingHeader",
+                                    "text": "Traveling with children",
+                                    "subText": null,
+                                    "mark": null
+                                },
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "family_friendly",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "family_friendly",
+                                    "theme": null
+                                },
+                                "jumpLink": null,
+                                "items": [
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Children stay free (see details)",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    }
+                                ]
+                            },
+                            {
+                                "__typename": "PropertyInfoContent",
+                                "header": {
+                                    "__typename": "LodgingHeader",
+                                    "text": "Working away",
+                                    "subText": null,
+                                    "mark": null
+                                },
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "business_center",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "business_center",
+                                    "theme": null
+                                },
+                                "jumpLink": null,
+                                "items": [
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Meeting room",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Computer station",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Conference space (495 square feet)",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    }
+                                ]
+                            },
+                            {
+                                "__typename": "PropertyInfoContent",
+                                "header": {
+                                    "__typename": "LodgingHeader",
+                                    "text": "Services",
+                                    "subText": null,
+                                    "mark": null
+                                },
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "room_service",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "room_service",
+                                    "theme": null
+                                },
+                                "jumpLink": null,
+                                "items": [
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "24-hour front desk",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Laundry facilities",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Free newspapers in lobby",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    }
+                                ]
+                            },
+                            {
+                                "__typename": "PropertyInfoContent",
+                                "header": {
+                                    "__typename": "LodgingHeader",
+                                    "text": "Facilities",
+                                    "subText": null,
+                                    "mark": null
+                                },
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "done",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "done",
+                                    "theme": null
+                                },
+                                "jumpLink": null,
+                                "items": [
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Safe-deposit box at front desk",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "An outdoor pool",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    }
+                                ]
+                            },
+                            {
+                                "__typename": "PropertyInfoContent",
+                                "header": {
+                                    "__typename": "LodgingHeader",
+                                    "text": "Accessibility",
+                                    "subText": null,
+                                    "mark": null
+                                },
+                                "icon": {
+                                    "__typename": "Icon",
+                                    "id": "accessible",
+                                    "description": "",
+                                    "size": null,
+                                    "token": "accessible",
+                                    "theme": null
+                                },
+                                "jumpLink": null,
+                                "items": [
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Accessible bathroom (select rooms)",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "In-room accessibility (select rooms)",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Wheelchair-accessible path of travel",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Wheelchair-accessible parking",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Wheelchair-accessible public washroom",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Wheelchair-accessible van parking",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Wheelchair-accessible registration desk",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    },
+                                    {
+                                        "__typename": "PropertyInfoItem",
+                                        "text": "Hand-held showerheads",
+                                        "state": null,
+                                        "moreInfo": null,
+                                        "icon": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "cleaningAndSafety": null,
+                "location": {
+                    "__typename": "PropertyLocation",
+                    "address": {
+                        "__typename": "PropertyAddress",
+                        "addressLine": "13313 North Stemmons Free, Farmers Branch, TX, 75234",
+                        "city": "Farmers Branch",
+                        "province": "TX",
+                        "countryCode": "USA",
+                        "firstAddressLine": "13313 North Stemmons Free",
+                        "secondAddressLine": ""
+                    },
+                    "coordinates": {
+                        "__typename": "Coordinates",
+                        "latitude": 32.924198,
+                        "longitude": -96.901511
+                    },
+                    "multiCityRegion": {
+                        "__typename": "Region",
+                        "id": "178253"
+                    },
+                    "whatsAround": {
+                        "__typename": "PropertyWhatsAround",
+                        "editorial": {
+                            "__typename": "PropertyEditorial",
+                            "title": "Farmers Branch",
+                            "content": [
+                                "Located in Farmers Branch, Arya Inn & Suites Farmers Branch is in the business district and near theme parks. Sixth Floor Museum and Perot Museum of Nature and Science are cultural highlights, and some of the area's popular attractions include Zero Gravity Thrill Amusement Park and Dallas World Aquarium. Looking to enjoy an event or a game while in town? See what's going on at American Airlines Center, or consider a night out at South Side Ballroom. "
+                            ]
+                        }
+                    },
+                    "mapDialog": {
+                        "__typename": "LodgingMapDialog",
+                        "trigger": {
+                            "__typename": "LodgingDialogTriggerMessage",
+                            "value": "View in a map",
+                            "icon": {
+                                "__typename": "Icon",
+                                "id": "chevron_right",
+                                "description": "",
+                                "size": null,
+                                "token": "icon__chevron_right",
+                                "theme": null
+                            },
+                            "clientSideAnalytics": {
+                                "__typename": "ClientSideAnalytics",
+                                "linkName": "ClickAddressCTALinkViewMap",
+                                "referrerId": "HOT.HIS.ClickAddressCTALinkViewMap"
+                            }
+                        },
+                        "toolbar": null
+                    },
+                    "staticImage": {
+                        "__typename": "Image",
+                        "description": "Map",
+                        "url": "https://maps.googleapis.com/maps/api/staticmap?&size=600x120&zoom=13&markers=icon:https%3A%2F%2Fa.travel-assets.com%2Fshopping-pwa%2Fimages%2Fhis-preview-marker.png%7C32.92420%2C-96.90151&channel=expedia-HotelInformation&maptype=roadmap&scale=1&key=AIzaSyCYjQus5kCufOpSj932jFoR_AJiL9yiwOw&signature=o_DiiSHsZETRdoaNrcbqAK7DlSc=",
+                        "aspectRatio": null
+                    }
+                },
+                "nearbyPOIs": {
+                    "__typename": "PropertyInfoContent",
+                    "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "What's around",
+                        "subText": null,
+                        "mark": null
+                    },
+                    "icon": null,
+                    "jumpLink": null,
+                    "items": [
+                        {
+                            "__typename": "PropertyInfoItem",
+                            "text": "Galleria Dallas",
+                            "state": null,
+                            "moreInfo": "9 min drive",
+                            "icon": {
+                                "__typename": "Icon",
+                                "id": "place",
+                                "description": "Popular Location",
+                                "size": null,
+                                "token": "place",
+                                "theme": null
+                            }
+                        },
+                        {
+                            "__typename": "PropertyInfoItem",
+                            "text": "Irving Convention Center",
+                            "state": null,
+                            "moreInfo": "9 min drive",
+                            "icon": {
+                                "__typename": "Icon",
+                                "id": "place",
+                                "description": "Popular Location",
+                                "size": null,
+                                "token": "place",
+                                "theme": null
+                            }
+                        },
+                        {
+                            "__typename": "PropertyInfoItem",
+                            "text": "Dallas Market Center",
+                            "state": null,
+                            "moreInfo": "13 min drive",
+                            "icon": {
+                                "__typename": "Icon",
+                                "id": "place",
+                                "description": "Popular Location",
+                                "size": null,
+                                "token": "place",
+                                "theme": null
+                            }
+                        },
+                        {
+                            "__typename": "PropertyInfoItem",
+                            "text": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)",
+                            "state": null,
+                            "moreInfo": "16 min drive",
+                            "icon": {
+                                "__typename": "Icon",
+                                "id": "lob_flights",
+                                "description": "Airport",
+                                "size": null,
+                                "token": "lob_flights",
+                                "theme": null
+                            }
+                        }
+                    ]
+                },
+                "lodgingChatbot": null
+            },
+            "propertyGallery": {
+                "__typename": "PropertyImageGallery",
+                "imagesGrouped": [
+                    {
+                        "__typename": "PropertyGalleryCategory",
+                        "id": "all",
+                        "name": "All photos",
+                        "images": [
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Outdoor pool, image",
+                                "imageId": "17344734",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/b22501c7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Outdoor pool"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Premium bedding, in-room safe, desk, iron/ironing board, image",
+                                "imageId": "17344735",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/ae632fe2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Premium bedding, in-room safe, desk, iron/ironing board"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Breakfast area, image",
+                                "imageId": "17030247",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/3491e0c6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Breakfast area"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Lobby, image",
+                                "imageId": "17344731",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/82321a51.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Lobby"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446036",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/efe34a2a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Premium bedding, in-room safe, desk, iron/ironing board, image",
+                                "imageId": "17344732",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/d7e2ea81.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Premium bedding, in-room safe, desk, iron/ironing board"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Restaurant, image",
+                                "imageId": "544992321",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/c8ef22a8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Restaurant"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Dining, image",
+                                "imageId": "17344733",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/bfc110ec.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Dining"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Breakfast area, image",
+                                "imageId": "17030251",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/030a2856.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Breakfast area"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446039",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/bce659c0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446037",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/2f1c66ae.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446038",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/d83a4c3b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Snack bar, image",
+                                "imageId": "17030254",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/c95bff1c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Snack bar"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Gift shop, image",
+                                "imageId": "544992327",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/f5bfd503.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Gift shop"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Lobby, image",
+                                "imageId": "544992328",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/f33d0a15.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Lobby"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Lobby sitting area, image",
+                                "imageId": "17344730",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/9b49ab2e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Lobby sitting area"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "__typename": "PropertyGalleryCategory",
+                        "id": "rooms",
+                        "name": "Rooms",
+                        "images": [
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Premium bedding, in-room safe, desk, iron/ironing board, image",
+                                "imageId": "17344735",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/ae632fe2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Premium bedding, in-room safe, desk, iron/ironing board"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446036",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/efe34a2a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Premium bedding, in-room safe, desk, iron/ironing board, image",
+                                "imageId": "17344732",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/d7e2ea81.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Premium bedding, in-room safe, desk, iron/ironing board"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446039",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/bce659c0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446037",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/2f1c66ae.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                                "imageId": "17446038",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/d83a4c3b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "__typename": "PropertyGalleryCategory",
+                        "id": "commonAreas",
+                        "name": "Common areas",
+                        "images": [
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Lobby, image",
+                                "imageId": "17344731",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/82321a51.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Lobby"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Lobby, image",
+                                "imageId": "544992328",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/f33d0a15.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Lobby"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Lobby sitting area, image",
+                                "imageId": "17344730",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/9b49ab2e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Lobby sitting area"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "__typename": "PropertyGalleryCategory",
+                        "id": "pool",
+                        "name": "Pool",
+                        "images": [
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Outdoor pool, image",
+                                "imageId": "17344734",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/b22501c7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Outdoor pool"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "__typename": "PropertyGalleryCategory",
+                        "id": "dining",
+                        "name": "Dining",
+                        "images": [
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Breakfast area, image",
+                                "imageId": "17030247",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/3491e0c6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Breakfast area"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Restaurant, image",
+                                "imageId": "544992321",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/c8ef22a8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Restaurant"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Dining, image",
+                                "imageId": "17344733",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/bfc110ec.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Dining"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Breakfast area, image",
+                                "imageId": "17030251",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/030a2856.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Breakfast area"
+                                }
+                            },
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Snack bar, image",
+                                "imageId": "17030254",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/c95bff1c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Snack bar"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "__typename": "PropertyGalleryCategory",
+                        "id": "amenities",
+                        "name": "Amenities",
+                        "images": [
+                            {
+                                "__typename": "PropertyImage",
+                                "accessibilityText": "Gift shop, image",
+                                "imageId": "544992327",
+                                "image": {
+                                    "__typename": "Image",
+                                    "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/f5bfd503.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                                    "description": "Gift shop"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "images": [
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Outdoor pool, image",
+                        "imageId": "17344734",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/b22501c7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Outdoor pool"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Premium bedding, in-room safe, desk, iron/ironing board, image",
+                        "imageId": "17344735",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/ae632fe2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Premium bedding, in-room safe, desk, iron/ironing board"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Breakfast area, image",
+                        "imageId": "17030247",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/3491e0c6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Breakfast area"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Lobby, image",
+                        "imageId": "17344731",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/82321a51.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Lobby"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                        "imageId": "17446036",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/efe34a2a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Premium bedding, in-room safe, desk, iron/ironing board, image",
+                        "imageId": "17344732",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/d7e2ea81.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Premium bedding, in-room safe, desk, iron/ironing board"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Restaurant, image",
+                        "imageId": "544992321",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/c8ef22a8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Restaurant"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Dining, image",
+                        "imageId": "17344733",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/bfc110ec.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Dining"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Breakfast area, image",
+                        "imageId": "17030251",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/030a2856.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Breakfast area"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                        "imageId": "17446039",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/bce659c0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                        "imageId": "17446037",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/2f1c66ae.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Combined shower/tub, free toiletries, hair dryer, towels, image",
+                        "imageId": "17446038",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/d83a4c3b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Combined shower/tub, free toiletries, hair dryer, towels"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Snack bar, image",
+                        "imageId": "17030254",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/c95bff1c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Snack bar"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Gift shop, image",
+                        "imageId": "544992327",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/f5bfd503.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Gift shop"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Lobby, image",
+                        "imageId": "544992328",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/f33d0a15.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Lobby"
+                        }
+                    },
+                    {
+                        "__typename": "PropertyImage",
+                        "accessibilityText": "Lobby sitting area, image",
+                        "imageId": "17344730",
+                        "image": {
+                            "__typename": "Image",
+                            "url": "https://images.trvl-media.com/lodging/1000000/50000/43300/43263/9b49ab2e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+                            "description": "Lobby sitting area"
+                        }
+                    }
+                ],
+                "accessibilityLabel": "Photo gallery for Arya Inn & Suites Farmers Branch",
+                "thumbnailGalleryDialog": {
+                    "__typename": "LodgingGalleryDialog",
+                    "trigger": {
+                        "__typename": "LodgingDialogTriggerMessage",
+                        "value": "15+",
+                        "icon": {
+                            "__typename": "Icon",
+                            "id": "photo_library",
+                            "description": "",
+                            "size": null,
+                            "token": "icon__photo_library",
+                            "theme": null
+                        },
+                        "clientSideAnalytics": {
+                            "__typename": "ClientSideAnalytics",
+                            "linkName": "Close Thumbnail Gallery Dialog via Cross button",
+                            "referrerId": "App.HOT.HIS.PhotoGalleryTrigger.Close"
+                        }
+                    },
+                    "toolbar": {
+                        "__typename": "LodgingDialogToolbar",
+                        "title": "Arya Inn & Suites Farmers Branch",
+                        "icon": {
+                            "__typename": "Icon",
+                            "id": "arrow_back",
+                            "description": "Cancel, go back to property details",
+                            "size": null,
+                            "token": "icon__arrow_back",
+                            "theme": null
+                        },
+                        "clientSideAnalytics": null
+                    }
+                },
+                "mediaGalleryDialog": {
+                    "__typename": "LodgingGalleryDialog",
+                    "trigger": {
+                        "__typename": "LodgingDialogTriggerMessage",
+                        "value": "15+",
+                        "icon": null,
+                        "clientSideAnalytics": null
+                    },
+                    "toolbar": {
+                        "__typename": "LodgingDialogToolbar",
+                        "title": "Arya Inn & Suites Farmers Branch",
+                        "icon": {
+                            "__typename": "Icon",
+                            "id": "close",
+                            "description": "Cancel, go back to property details",
+                            "size": null,
+                            "token": "icon__close",
+                            "theme": null
+                        },
+                        "clientSideAnalytics": null
+                    }
+                }
+            },
+            "reviewInfo": {
+                "__typename": "PropertyReviews",
+                "summary": {
+                    "__typename": "PropertyReviewSummary",
+                    "overallScoreWithDescriptionA11y": {
+                        "__typename": "LodgingEnrichedMessage",
+                        "value": "6.6/10 Good"
+                    },
+                    "propertyReviewCountDetails": {
+                        "__typename": "PropertyReviewCountDetails",
+                        "shortDescription": "See all 1,002 reviews"
+                    },
+                    "highlightMessage": null,
+                    "seeAllAction": {
+                        "__typename": "PropertyFilteredReviewsDialog",
+                        "trigger": {
+                            "__typename": "LodgingDialogTriggerMessage",
+                            "clientSideAnalytics": {
+                                "__typename": "ClientSideAnalytics",
+                                "linkName": "Open property reviews dialog",
+                                "referrerId": "PropertyReviews.Open"
+                            }
+                        }
+                    }
+                }
+            },
+            "propertyContentSectionGroups": {
+                "__typename": "PropertyContentSectionGroups",
+                "cleanliness": {
+                    "__typename": "PropertyContentSectionGroup",
+                    "sectionName": "cleaningAndSafetyPractices",
+                    "sections": [
+                        {
+                            "__typename": "PropertyContentSection",
+                            "sectionName": "cleaningAndSafetyPractices",
+                            "header": {
+                                "__typename": "LodgingHeader",
+                                "icon": null,
+                                "text": "Cleaning and safety practices",
+                                "subText": null
+                            },
+                            "bodySubSections": [
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Enhanced cleanliness measures",
+                                                "subText": null,
+                                                "icon": {
+                                                    "__typename": "Icon",
+                                                    "id": "cleanliness",
+                                                    "description": "",
+                                                    "size": null,
+                                                    "token": "icon__cleanliness",
+                                                    "theme": null
+                                                },
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemTexts",
+                                                    "contents": [
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Disinfectant is used to clean the property",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "High-touch surfaces are cleaned and disinfected",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Follows industry cleaning and disinfection practices of Safe Travels (WTTC - Global)",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Social distancing",
+                                                "subText": null,
+                                                "icon": {
+                                                    "__typename": "Icon",
+                                                    "id": "social_distance",
+                                                    "description": "",
+                                                    "size": null,
+                                                    "token": "icon__social_distance",
+                                                    "theme": null
+                                                },
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemTexts",
+                                                    "contents": [
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Contactless check-out",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Guest rooms kept vacant for 24 hours between stays",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Social distancing measures in place",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Safety measures",
+                                                "subText": null,
+                                                "icon": {
+                                                    "__typename": "Icon",
+                                                    "id": "done",
+                                                    "description": "",
+                                                    "size": null,
+                                                    "token": "icon__done",
+                                                    "theme": null
+                                                },
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemTexts",
+                                                    "contents": [
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Personal protective equipment worn by staff",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Temperature checks given to staff",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Masks are required at the property",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Hand sanitizer provided",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Individually-wrapped food options available for breakfast",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": null,
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "This information is provided by our partners.",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                }
+                            ],
+                            "action": null
+                        }
+                    ]
+                },
+                "aboutThisProperty": {
+                    "__typename": "PropertyContentSectionGroup",
+                    "sectionName": null,
+                    "sections": [
+                        {
+                            "__typename": "PropertyContentSection",
+                            "sectionName": null,
+                            "header": {
+                                "__typename": "LodgingHeader",
+                                "icon": null,
+                                "text": "About this property",
+                                "subText": null
+                            },
+                            "bodySubSections": [
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Arya Inn & Suites Farmers Branch",
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemMarkup",
+                                                    "content": {
+                                                        "__typename": "MarkupText",
+                                                        "text": "At Arya Inn & Suites Farmers Branch, you'll be within a 15-minute drive of American Airlines Center and Galleria Dallas. Guests can take a dip in the outdoor pool, and freebies like WiFi and self parking are added perks. Also, Dallas Market Center and Gaylord Texan Convention Center are within a short drive. Fellow travelers love the overall property condition. The property is just a short walk to public transportation: Farmers Branch Station is 9 minutes away.   ",
+                                                        "markupType": "HTML"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Languages",
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "English",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                }
+                            ],
+                            "action": null
+                        },
+                        {
+                            "__typename": "PropertyContentSection",
+                            "sectionName": "cleaningAndSafetyPractices",
+                            "header": {
+                                "__typename": "LodgingHeader",
+                                "icon": null,
+                                "text": "Cleaning and safety practices",
+                                "subText": null
+                            },
+                            "bodySubSections": [
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Enhanced cleanliness measures",
+                                                "subText": null,
+                                                "icon": {
+                                                    "__typename": "Icon",
+                                                    "id": "cleanliness",
+                                                    "description": "",
+                                                    "size": null,
+                                                    "token": "icon__cleanliness",
+                                                    "theme": null
+                                                },
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemTexts",
+                                                    "contents": [
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Disinfectant is used to clean the property",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "High-touch surfaces are cleaned and disinfected",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Follows industry cleaning and disinfection practices of Safe Travels (WTTC - Global)",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Social distancing",
+                                                "subText": null,
+                                                "icon": {
+                                                    "__typename": "Icon",
+                                                    "id": "social_distance",
+                                                    "description": "",
+                                                    "size": null,
+                                                    "token": "icon__social_distance",
+                                                    "theme": null
+                                                },
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemTexts",
+                                                    "contents": [
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Contactless check-out",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Guest rooms kept vacant for 24 hours between stays",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Social distancing measures in place",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Safety measures",
+                                                "subText": null,
+                                                "icon": {
+                                                    "__typename": "Icon",
+                                                    "id": "done",
+                                                    "description": "",
+                                                    "size": null,
+                                                    "token": "icon__done",
+                                                    "theme": null
+                                                },
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemTexts",
+                                                    "contents": [
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Personal protective equipment worn by staff",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Temperature checks given to staff",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Masks are required at the property",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Hand sanitizer provided",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Individually-wrapped food options available for breakfast",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": null,
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "This information is provided by our partners.",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                }
+                            ],
+                            "action": null
+                        }
+                    ]
+                },
+                "policies": {
+                    "__typename": "PropertyContentSectionGroup",
+                    "sectionName": null,
+                    "sections": [
+                        {
+                            "__typename": "PropertyContentSection",
+                            "sectionName": "Fees & policies",
+                            "header": {
+                                "__typename": "LodgingHeader",
+                                "icon": null,
+                                "text": "Fees & policies",
+                                "subText": null
+                            },
+                            "bodySubSections": [
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Refundable deposits",
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemMarkup",
+                                                    "content": {
+                                                        "__typename": "MarkupText",
+                                                        "text": "<ul><li><strong>Deposit:</strong> USD 100.00 per stay</li></ul>",
+                                                        "markupType": "HTML"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Children & extra beds",
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemMarkup",
+                                                    "content": {
+                                                        "__typename": "MarkupText",
+                                                        "text": "<ul><li>Rollaway beds are available for USD 30.0 per day</li></ul>",
+                                                        "markupType": "HTML"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Hygiene & cleanliness",
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemMarkup",
+                                                    "content": {
+                                                        "__typename": "MarkupText",
+                                                        "text": "<p>This property advises that enhanced cleaning and guest safety measures are currently in place.</p><p>Disinfectant is used to clean the property, and commonly-touched surfaces are cleaned with disinfectant between stays.</p><p>Social distancing measures are in place; staff at the property wear personal protective equipment; periodic temperature checks are conducted on staff; guests are provided with hand sanitizer; masks are required in public areas.</p><p>Contactless check-out is available.</p><p>Individually-wrapped food options are available for breakfast.</p><p>Each guestroom is kept vacant for a minimum of 24 hours between bookings.</p><p>This property affirms that it adheres to the cleaning and disinfection practices of Safe Travels (WTTC - Global).</p>",
+                                                        "markupType": "HTML"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Policies",
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemTexts",
+                                                    "contents": [
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. ",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "This property does not have elevators. ",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "This property accepts credit cards. Cash is not accepted.",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        },
+                                                        {
+                                                            "__typename": "PropertyContentText",
+                                                            "primary": {
+                                                                "__typename": "LodgingEnrichedMessage",
+                                                                "value": "Please note that cultural norms and guest policies may differ by country and by property. The policies listed are provided by the property. ",
+                                                                "accessibilityLabel": null,
+                                                                "icon": null
+                                                            },
+                                                            "secondary": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                },
+                                {
+                                    "__typename": "PropertyContentSubSection",
+                                    "elements": [
+                                        {
+                                            "__typename": "PropertyContent",
+                                            "header": {
+                                                "__typename": "LodgingHeader",
+                                                "text": "Also known as",
+                                                "subText": null,
+                                                "icon": null,
+                                                "headerImage": null
+                                            },
+                                            "items": [
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn North Dallas",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn North Dallas Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn North Dallas Motel",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn North Dallas Motel Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Farmers Branch Days Inn",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Dallas Days Inn Farmers Branch Hotel Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn Wyndham North Dallas/Farmers Branch Motel",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn Wyndham North Dallas/Farmers Motel",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn Wyndham North Dallas/Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn Wyndham North Dallas/Farmers",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Arya & Suites Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Arya Inn Suites Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Arya Inn & Suites Farmers Branch Hotel",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Arya Inn & Suites Farmers Branch Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Days Inn by Wyndham North Dallas/farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                },
+                                                {
+                                                    "__typename": "PropertyContentItemText",
+                                                    "content": {
+                                                        "__typename": "PropertyContentText",
+                                                        "primary": {
+                                                            "__typename": "LodgingEnrichedMessage",
+                                                            "value": "Arya Inn & Suites Farmers Branch Hotel Farmers Branch",
+                                                            "accessibilityLabel": null,
+                                                            "icon": null
+                                                        },
+                                                        "secondary": null
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "expando": null,
+                                    "maxColumns": 1
+                                }
+                            ],
+                            "action": null
+                        }
+                    ]
+                },
+                "importantInfo": null
+            },
+            "saveTripItem": null
+        }
+    }
+}

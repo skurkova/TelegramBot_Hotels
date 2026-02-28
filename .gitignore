@@ -5,9 +5,14 @@ config.ini
 venv/
 .env
 
+# База данных
+*.db
+history.db
+
 # Логи
 *.log
 *.log.*
+logging.txt
 
 # Кэш Python
 __pycache__/
